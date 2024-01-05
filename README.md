@@ -1,4 +1,5 @@
 # Portfolio
+View my live site [here](https://joshlanesmith.github.io/portfolio/)
 
 ## Description
 Welcome to my portfolio project. This is a portfolio site hosted on GitHub Pages as I start developing projects for school and personal interests. This site has been built using the Solid State template from [HTML5up](https://html5up.net/solid-state). Creating a static site I was looking for a well structured and customizable template. HTML5up's templates fit that description with the use of well structured, easy to navigate, Sass files. I was able to quickly update the template to create my portfolio site. 
